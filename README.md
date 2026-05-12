@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile Responsive Web Design](./mobilescreenshot.jpg)
-![Desktop Responsive Web Design](./largerscreen.png)
+![Mobile Responsive Web Design](./images/mobilescreenshot.png)
+![Desktop Responsive Web Design](./images/largerscreen.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Code](https://github.com/ZinLinnHtoo-zenko/Product-Preview-Card-Component)
+- Live Site URL: [Live Site](https://product-preview-card-component-omega-lake.vercel.app/)
 
 ## My process
 
